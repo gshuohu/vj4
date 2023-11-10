@@ -2,7 +2,7 @@ module.exports = {
   root: true,
   env: {
     commonjs: true,
-    es2020: true,
+    es2020: trueh,
     node: true,
   },
   extends: [
